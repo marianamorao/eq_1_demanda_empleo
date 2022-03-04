@@ -13,12 +13,6 @@ Este repositorio contiene el código fuente de una aplicación basada en técnic
 ## Conjunto de datos
 El conjunto de datos que se obtuvo fue el resultado de analizar, extraer y preprocesar un conjunto de documentos PDF disponibles en el portal de [INAEM](https://inaem.aragon.es/ofertas-de-empleo), en el rango de fechas del 2021 hasta los días actuales.
 
-En la siguiente tabla, se muestran estadísticas resultantes de la fase de extracción de información relevante desde documentos PDF.
-
-| **Documentos PDF** | **Ofertas de empleo** | **Sectores** | **Columnas** |
-|---|---|---|---|
-| 11 | 584 | 19 | 13 |
-
 ## Instalación de librerías requeridas
 
 ```python
@@ -39,4 +33,4 @@ streamlit run app.py
 - Esther Puisac Nogarol - [epuisac@hotmail.com](epuisac@hotmail.com)
 
 ## Referencias
-[1] Mariana Morao y Esther P. Nogarol. EL MERCADO DE TRABAJO: MENOS INFOJOBS Y MÁS TINDER, pp. 10, 2022. https://medium.com/@ferringayo/5333392262b9
+[1] Mariana Morao y Esther P. Nogarol. EL MERCADO DE TRABAJO: MENOS INFOJOBS Y MÁS TINDER, pp. 10, 2022. https://medium.com/@ferringayo/el-mercado-de-trabajo-d73d79ed3c06

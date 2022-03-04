@@ -211,12 +211,12 @@ class ExtractionDemandData:
 
 def main():
     extraction_data = ExtractionDemandData()
-
-    pdf_path = 'C:/Users/HP/Desktop/AI/DemandaDeEmpleo/eq_1_demanda_empleo/actualizado/resources/diarios/S23/S23_14.2.pdf'
+    ROOT_PATH = '...'
+    pdf_path = ROOT_PATH+'/eq_1_demanda_empleo/actualizado/resources/diarios/S23/S23_14.2.pdf'
     text_list = extraction_data.get_text_list_from_pdf(pdf_path)
     
     df_data = extraction_data.get_df_demand(text_list)
-    df_data_path = 'C:/Users/HP/Desktop/AI/DemandaDeEmpleo/eq_1_demanda_empleo/actualizado/resources/diarios_csv/S23/ofertas_S23_14.2.csv'
+    df_data_path = ROOT_PATH+'/eq_1_demanda_empleo/actualizado/resources/diarios_csv/S23/ofertas_S23_14.2.csv'
     df_data.to_csv(df_data_path, sep=',', encoding='utf-8', index_label='index', index=False)
 
 if __name__ == '__main__':
