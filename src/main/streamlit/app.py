@@ -75,13 +75,9 @@ def draw_offer_by_date(date_list, count_list, title):
 def get_lon_lat_list(criteria_list):
     lat_lon_list = list()
     for criteria in criteria_list:   
-        if criteria == 'S':
-            criteria = 'Sabiñánigo' 
         geolocator = Nominatim(user_agent="Your_Name")
         location = geolocator.geocode(criteria)
-        # print(location.address)
         lat_lon_list.append([location.longitude, location.latitude])
-        # print(criteria, lat_lon_list)
     return lat_lon_list
 
 
