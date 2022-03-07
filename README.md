@@ -8,9 +8,9 @@
   <img width="100" height="100"src="https://static.thenounproject.com/png/305581-200.png" />
 </p>
 
-<p align="center">
+
 ![1_2_merge_OK](https://user-images.githubusercontent.com/99982394/157120991-1f81c18b-f086-4c6c-8093-fbdefa3e4e4a.gif)
-</p>
+
 
 Este repositorio contiene el código fuente de una aplicación basada en técnicas de Procesamiento del Lenguaje Natural (PLN) que facilita analizar las ofertas de empleo disponibles en Aragón a partir de diferentes criterios (sector, provincia, ciudad, oficina, fechas, etc.).
 
