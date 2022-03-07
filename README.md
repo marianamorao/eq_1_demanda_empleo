@@ -1,4 +1,5 @@
 # DASHBOARD para el estudio de las ofertas de empleo en Aragón
+![ezgif-4-790e325629](https://user-images.githubusercontent.com/99982394/157117526-6a4dc7bb-fa17-48d2-87cc-fa2d5f3e79f2.gif)
 
 <!--- 
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/icon_offer.png?raw=true)
