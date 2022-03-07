@@ -1,5 +1,4 @@
 # DASHBOARD para el estudio de las ofertas de empleo en Aragón
-![ezgif-4-790e325629](https://user-images.githubusercontent.com/99982394/157117526-6a4dc7bb-fa17-48d2-87cc-fa2d5f3e79f2.gif)
 
 <!--- 
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/icon_offer.png?raw=true)
@@ -8,6 +7,8 @@
 <p align="center">
   <img width="100" height="100"src="https://static.thenounproject.com/png/305581-200.png" />
 </p>
+
+![ezgif-4-790e325629](https://user-images.githubusercontent.com/99982394/157117526-6a4dc7bb-fa17-48d2-87cc-fa2d5f3e79f2.gif)
 
 Este repositorio contiene el código fuente de una aplicación basada en técnicas de Procesamiento del Lenguaje Natural (PLN) que facilita analizar las ofertas de empleo disponibles en Aragón a partir de diferentes criterios (sector, provincia, ciudad, oficina, fechas, etc.).
 
